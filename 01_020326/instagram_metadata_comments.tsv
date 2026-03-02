@@ -1,0 +1,11 @@
+Attribute name	Description
+node.id	Unique ID of the comment
+node.created_at	Timestamp in Unix time format of the creation date and time of the comment
+node.text	Plain-text content of the comment
+node.owner.*	A JSON object containing details about the author of the comment
+node.owner.id	Unique ID of the account
+node.owner.is_verified	Whether the account is verified or not
+node.owner.profile_pic_url	Direct URL to the account’s profile image
+node.owner.username	Plain-text version of the account’s username
+node.likes_count	The number of likes the comment has received
+node.answers.*	An array of JSON objects containing the replies to the comments – each one structured as the main comment
