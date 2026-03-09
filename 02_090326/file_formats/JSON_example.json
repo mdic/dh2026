@@ -1,0 +1,38 @@
+{
+    "Singers": [{
+            "name": "Bob Dylan",
+            "age": 81,
+            "Born At": "Duluth, MN",
+            "Birthdate": "May 24, 1941",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg/220px-Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg",
+            "wife": null,
+            "hasChildren": true,
+            "hasGreyHair": true,
+            "extraInformation": "born Robert Allen Zimmerman",
+            "children": [
+                "Jesse Byron",
+                "Anna Lea",
+                "Samuel Isaac Abram",
+                "Jakob Luke",
+                "Maria Lownds",
+                "Desiree Gabrielle Dennis"
+            ]
+        },
+        {
+            "name": "Thomas Alan Waits",
+            "age": 72,
+            "Born At": "Pomona, CA",
+            "Birthdate": "December 7, 1949",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Tom_Waits_%281974%E2%80%9375_Asylum_publicity_photo_-_headshot%29.jpg",
+            "wife": "Kathleen Brennan",
+            "hasChildren": true,
+            "hasGreyHair": false,
+            "extraInformation": null,
+            "children": [
+                "Kellesimone",
+                "Casey",
+                "Sullivan"
+            ]
+        }
+    ]
+}
