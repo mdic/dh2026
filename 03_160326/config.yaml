@@ -1,0 +1,10 @@
+# Map: "xml_attribute_name: json_key_name"
+attributes:
+  id: id
+  uploader: uploader
+  channel: channel
+  likes: like_count
+  title: fulltitle
+
+# Set to true to automatically include year, month, and day based on the timestamp
+include_date: true

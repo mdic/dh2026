@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<head>
+<ws id="0"/>
+<ws id="1" mh="2" ju="0" sd="3"/>
+<wp id="0"/>
+<wp id="1" ap="6" ah="20" av="100" rc="2" cc="40"/>
+</head>
+<body>
+<w t="0" id="1" wp="1" ws="1"/>
+<p t="80" d="6120" w="1"><s ac="0">there</s><s t="160" ac="0"> are</s><s t="560" ac="0"> icebergs</s><s t="1239" ac="0"> drifting</s><s t="1759" ac="0"> past</s><s t="2079" ac="0"> us</s></p>
+<p t="2550" d="3650" w="1" a="1">
+</p>
+<p t="2560" d="6420" w="1"><s ac="0">giant</s><s t="639" ac="0"> snowy</s><s t="1200" ac="0"> mountains</s><s t="2160" ac="0"> and</s><s t="2640" ac="0"> whales</s></p>
+<p t="6190" d="2790" w="1" a="1">
+</p>
+<p t="6200" d="9440" w="1"><s ac="0">everywhere</s><s t="920" ac="0"> welcome</s><s t="1320" ac="0"> to</s></p>
+<p t="8970" d="6670" w="1" a="1">
+</p>
+<p t="8980" d="6660" w="1">[Music]</p>
+<p t="16390" w="1" a="1">
+</p>
+<p t="16400" d="4400" w="1"><s ac="0">Antarctica</s><s t="1000" ac="0"> the</s></p>
+<p t="18510" d="2290" w="1" a="1">
+</p>
+<p t="18520" d="4480" w="1"><s ac="0">rainbow</s><s t="1000" ac="0"> the</s></p>
+<p t="20790" d="2210" w="1" a="1">
+</p>
+<p t="20800" d="3920" w="1"><s ac="0">rainbow</s><s t="1000" ac="0"> call</s></p>
+<p t="22990" d="1730" w="1" a="1">
+</p>
+<p t="23000" d="4160" w="1"><s ac="0">me</s></p>
+<p t="24710" d="2450" w="1" a="1">
+</p>
+<p t="24720" d="6639" w="1"><s ac="0">oh</s><s t="1000" ac="0"> like</s><s t="1240" ac="0"> the</s></p>
+<p t="27150" d="4209" w="1" a="1">
+</p>
+<p t="27160" d="4199" w="1"><s ac="0">rainbow</s><s t="1000" ac="0"> the</s><s t="1199" ac="0"> rainbow</s></p>
+<p t="31999" w="1" a="1">
+</p>
+<p t="32009" d="3179" w="1">[Music]</p>
+<p t="39640" w="1" a="1">
+</p>
+<p t="39650" d="15429" w="1">[Music]</p>
+<p t="51910" d="3169" w="1" a="1">
+</p>
+<p t="51920" d="5560" w="1"><s ac="0">I&#39;m</s><s t="200" ac="0"> headed</s><s t="520" ac="0"> to</s><s t="920" ac="0"> Antarctica</s><s t="1880" ac="0"> my</s><s t="2200" ac="0"> number</s><s t="2560" ac="0"> one</s></p>
+<p t="55069" d="2411" w="1" a="1">
+</p>
+<p t="55079" d="5201" w="1"><s ac="0">travel</s><s t="361" ac="0"> bucket</s><s t="761" ac="0"> list</s><s t="1081" ac="0"> destination</s><s t="2081" ac="0"> but</s><s t="2241" ac="0"> the</s></p>
+<p t="57470" d="2810" w="1" a="1">
+</p>
+<p t="57480" d="4559" w="1"><s ac="0">adventure</s><s t="599" ac="0"> of</s><s t="800" ac="0"> Antarctica</s><s t="1599" ac="0"> begins</s><s t="2520" ac="0"> long</s></p>
+<p t="60270" d="1769" w="1" a="1">
+</p>
+<p t="60280" d="4360" w="1"><s ac="0">before</s><s t="279" ac="0"> you</s><s t="480" ac="0"> get</s><s t="720" ac="0"> there</s><s t="1160" ac="0"> first</s><s t="1400" ac="0"> you</s><s t="1520" ac="0"> have</s><s t="1640" ac="0"> to</s></p>
+<p t="62029" d="2611" w="1" a="1">
+</p>
+<p t="62039" d="4281" w="1"><s ac="0">get</s><s t="121" ac="0"> to</s><s t="401" ac="0"> usua</s><s t="1121" ac="0"> Argentina</s><s t="1921" ac="0"> it&#39;s</s><s t="2080" ac="0"> definitely</s><s t="2440" ac="0"> an</s></p>
+<p t="64630" d="1690" w="1" a="1">
+</p>
+<p t="64640" d="4000" w="1"><s ac="0">adventure</s><s t="479" ac="0"> Hub</s><s t="760" ac="0"> there</s><s t="839" ac="0"> are</s><s t="1000" ac="0"> a</s><s t="1120" ac="0"> lot</s><s t="1240" ac="0"> of</s><s t="1440" ac="0"> really</s></p>
+<p t="66310" d="2330" w="1" a="1">
+</p>
+<p t="66320" d="4960" w="1"><s ac="0">cool</s><s t="240" ac="0"> things</s><s t="520" ac="0"> you</s><s t="640" ac="0"> can</s><s t="799" ac="0"> do</s><s t="1400" ac="0"> launching</s><s t="2040" ac="0"> from</s></p>
+<p t="68630" d="2650" w="1" a="1">
+</p>
+<p t="68640" d="5320" w="1"><s ac="0">this</s><s t="200" ac="0"> city</s><s t="880" ac="0"> and</s><s t="1040" ac="0"> it&#39;s</s><s t="1240" ac="0"> known</s><s t="1720" ac="0"> as</s><s t="1960" ac="0"> the</s><s t="2159" ac="0"> gateway</s></p>
+<p t="71270" d="2690" w="1" a="1">
+</p>
+<p t="71280" d="4879" w="1"><s ac="0">to</s><s t="400" ac="0"> Antarctica</s><s t="1320" ac="0"> in</s><s t="1479" ac="0"> usua</s><s t="2080" ac="0"> I</s><s t="2199" ac="0"> boarded</s><s t="2560" ac="0"> the</s></p>
+<p t="73950" d="2209" w="1" a="1">
+</p>
+<p t="73960" d="4120" w="1"><s ac="0">Seaborn</s><s t="479" ac="0"> Venture</s><s t="1000" ac="0"> thanks</s><s t="1240" ac="0"> to</s><s t="1400" ac="0"> Seaborn</s><s t="2000" ac="0"> who&#39;s</s></p>
+<p t="76149" d="1931" w="1" a="1">
+</p>
+<p t="76159" d="4441" w="1"><s ac="0">hosting</s><s t="361" ac="0"> me</s><s t="561" ac="0"> for</s><s t="801" ac="0"> this</s><s t="1000" ac="0"> trip</s><s t="1441" ac="0"> I&#39;ve</s><s t="1640" ac="0"> always</s></p>
+<p t="78070" d="2530" w="1" a="1">
+</p>
+<p t="78080" d="4800" w="1"><s ac="0">heard</s><s t="480" ac="0"> that</s><s t="640" ac="0"> their</s><s t="880" ac="0"> Antarctic</s><s t="1640" ac="0"> experiences</s></p>
+<p t="80590" d="2290" w="1" a="1">
+</p>
+<p t="80600" d="4760" w="1"><s ac="0">are</s><s t="440" ac="0"> incredible</s><s t="1360" ac="0"> but</s><s t="1559" ac="0"> before</s><s t="1800" ac="0"> you</s><s t="1920" ac="0"> get</s><s t="2040" ac="0"> to</s></p>
+<p t="82870" d="2490" w="1" a="1">
+</p>
+<p t="82880" d="4720" w="1"><s ac="0">Antarctica</s><s t="800" ac="0"> you</s><s t="1080" ac="0"> have</s><s t="1239" ac="0"> to</s><s t="1440" ac="0"> cross</s><s t="1919" ac="0"> the</s><s t="2040" ac="0"> Drake</s></p>
+<p t="85350" d="2250" w="1" a="1">
+</p>
+<p t="85360" d="4280" w="1"><s ac="0">Passage</s><s t="640" ac="0"> the</s><s t="759" ac="0"> Drake</s><s t="1119" ac="0"> Passage</s><s t="1520" ac="0"> is</s><s t="1640" ac="0"> the</s><s t="1799" ac="0"> body</s><s t="2079" ac="0"> of</s></p>
+<p t="87590" d="2050" w="1" a="1">
+</p>
+<p t="87600" d="3920" w="1"><s ac="0">water</s><s t="400" ac="0"> between</s><s t="720" ac="0"> the</s><s t="920" ac="0"> southernmost</s><s t="1600" ac="0"> tip</s><s t="1920" ac="0"> of</s></p>
+<p t="89630" d="1890" w="1" a="1">
+</p>
+<p t="89640" d="4280" w="1"><s ac="0">South</s><s t="280" ac="0"> South</s><s t="519" ac="0"> America</s><s t="1320" ac="0"> and</s><s t="1479" ac="0"> the</s><s t="1640" ac="0"> South</s></p>
+<p t="91510" d="2410" w="1" a="1">
+</p>
+<p t="91520" d="5400" w="1"><s ac="0">Shetland</s><s t="520" ac="0"> Islands</s><s t="959" ac="0"> of</s><s t="1160" ac="0"> Antarctica</s><s t="2080" ac="0"> and</s><s t="2200" ac="0"> it&#39;s</s></p>
+<p t="93910" d="3010" w="1" a="1">
+</p>
+<p t="93920" d="4640" w="1"><s ac="0">known</s><s t="280" ac="0"> to</s><s t="600" ac="0"> have</s><s t="1080" ac="0"> the</s><s t="1320" ac="0"> roughest</s><s t="1960" ac="0"> seas</s><s t="2640" ac="0"> in</s><s t="2800" ac="0"> the</s></p>
+<p t="96910" d="1650" w="1" a="1">
+</p>
+<p t="96920" d="4680" w="1"><s ac="0">world</s><s t="559" ac="0"> and</s><s t="680" ac="0"> the</s><s t="839" ac="0"> stretch</s><s t="1120" ac="0"> we&#39;re</s><s t="1280" ac="0"> going</s><s t="1360" ac="0"> to</s><s t="1440" ac="0"> be</s></p>
+<p t="98550" d="3050" w="1" a="1">
+</p>
+<p t="98560" d="5640" w="1"><s ac="0">Crossing</s><s t="599" ac="0"> is</s><s t="839" ac="0"> nearly</s><s t="1480" ac="0"> 600</s></p>
+<p t="101590" d="2610" w="1" a="1">
+</p>
+<p t="101600" d="4360" w="1"><s ac="0">miles</s><s t="1000" ac="0"> we&#39;re</s><s t="1199" ac="0"> about</s><s t="1440" ac="0"> 13</s><s t="1799" ac="0"> hours</s><s t="2040" ac="0"> into</s><s t="2320" ac="0"> crossing</s></p>
+<p t="104190" d="1770" w="1" a="1">
+</p>
+<p t="104200" d="3959" w="1"><s ac="0">the</s><s t="120" ac="0"> Drake</s><s t="519" ac="0"> Passage</s><s t="1000" ac="0"> I</s><s t="1080" ac="0"> think</s><s t="1199" ac="0"> we</s><s t="1360" ac="0"> hit</s><s t="1519" ac="0"> it</s></p>
+<p t="105950" d="2209" w="1" a="1">
+</p>
+<p t="105960" d="4119" w="1"><s ac="0">around</s><s t="479" ac="0"> 2:</s><s t="759" ac="0"> a.m.</s><s t="1199" ac="0"> last</s><s t="1400" ac="0"> night</s><s t="1600" ac="0"> because</s><s t="1799" ac="0"> I</s><s t="1920" ac="0"> woke</s></p>
+<p t="108149" d="1930" w="1" a="1">
+</p>
+<p t="108159" d="4441" w="1"><s ac="0">up</s><s t="280" ac="0"> to</s><s t="481" ac="0"> things</s><s t="681" ac="0"> in</s><s t="841" ac="0"> my</s><s t="1000" ac="0"> room</s><s t="1441" ac="0"> starting</s><s t="1761" ac="0"> to</s></p>
+<p t="110069" d="2531" w="1" a="1">
+</p>
+<p t="110079" d="4121" w="1"><s ac="0">slide</s><s t="640" ac="0"> back</s><s t="761" ac="0"> and</s><s t="1000" ac="0"> forth</s><s t="1441" ac="0"> but</s><s t="1561" ac="0"> so</s><s t="1761" ac="0"> far</s><s t="2000" ac="0"> so</s><s t="2281" ac="0"> good</s></p>
+<p t="112590" d="1610" w="1" a="1">
+</p>
+<p t="112600" d="3439" w="1"><s ac="0">from</s><s t="199" ac="0"> what</s><s t="320" ac="0"> I</s><s t="720" ac="0"> understand</s><s t="920" ac="0"> we&#39;re</s><s t="1080" ac="0"> having</s><s t="1400" ac="0"> a</s></p>
+<p t="114190" d="1849" w="1" a="1">
+</p>
+<p t="114200" d="3519" w="1"><s ac="0">really</s><s t="320" ac="0"> easy</s><s t="640" ac="0"> Drake</s><s t="1080" ac="0"> Crossing</s><s t="1440" ac="0"> so</s><s t="1599" ac="0"> I&#39;ve</s><s t="1720" ac="0"> been</s></p>
+<p t="116029" d="1690" w="1" a="1">
+</p>
+<p t="116039" d="4841" w="1"><s ac="0">able</s><s t="201" ac="0"> to</s><s t="360" ac="0"> enjoy</s><s t="641" ac="0"> it</s><s t="760" ac="0"> a</s><s t="841" ac="0"> little</s><s t="1040" ac="0"> bit</s><s t="1281" ac="0"> I</s><s t="1360" ac="0"> was</s><s t="1521" ac="0"> just</s></p>
+<p t="117709" d="3171" w="1" a="1">
+</p>
+<p t="117719" d="5121" w="1"><s ac="0">out</s><s t="161" ac="0"> on</s><s t="320" ac="0"> the</s><s t="440" ac="0"> bow</s><s t="1080" ac="0"> watching</s><s t="1601" ac="0"> albat</s><s t="2201" ac="0"> Frost</s><s t="2680" ac="0"> soar</s></p>
+<p t="120870" d="1970" w="1" a="1">
+</p>
+<p t="120880" d="5440" w="1"><s ac="0">around</s><s t="360" ac="0"> the</s><s t="519" ac="0"> ship</s><s t="919" ac="0"> which</s><s t="1040" ac="0"> is</s><s t="1239" ac="0"> incredible</s></p>
+<p t="122830" d="3490" w="1" a="1">
+</p>
+<p t="122840" d="5520" w="1"><s ac="0">these</s><s t="199" ac="0"> birds</s><s t="840" ac="0"> have</s><s t="1000" ac="0"> wingspans</s><s t="1720" ac="0"> up</s><s t="1879" ac="0"> to</s><s t="2199" ac="0"> 12</s><s t="2919" ac="0"> ft</s></p>
+<p t="126310" d="2050" w="1" a="1">
+</p>
+<p t="126320" d="4200" w="1"><s ac="0">and</s><s t="159" ac="0"> for</s><s t="360" ac="0"> some</s><s t="600" ac="0"> reason</s><s t="1000" ac="0"> they</s><s t="1159" ac="0"> like</s><s t="1560" ac="0"> following</s></p>
+<p t="128350" d="2170" w="1" a="1">
+</p>
+<p t="128360" d="4920" w="1"><s ac="0">the</s><s t="160" ac="0"> wake</s><s t="560" ac="0"> of</s><s t="679" ac="0"> the</s><s t="840" ac="0"> ship</s><s t="1200" ac="0"> so</s><s t="1399" ac="0"> they&#39;re</s><s t="1720" ac="0"> actually</s></p>
+<p t="130510" d="2770" w="1" a="1">
+</p>
+<p t="130520" d="4920" w="1"><s ac="0">hanging</s><s t="400" ac="0"> around</s><s t="799" ac="0"> us</s><s t="1160" ac="0"> which</s><s t="1280" ac="0"> is</s><s t="1719" ac="0"> very</s><s t="2000" ac="0"> cool</s></p>
+<p t="133270" d="2170" w="1" a="1">
+</p>
+<p t="133280" d="4360" w="1"><s ac="0">after</s><s t="240" ac="0"> 2</s><s t="520" ac="0"> days</s><s t="720" ac="0"> of</s><s t="840" ac="0"> sailing</s><s t="1319" ac="0"> across</s><s t="1640" ac="0"> the</s><s t="1760" ac="0"> Drake</s></p>
+<p t="135430" d="2210" w="1" a="1">
+</p>
+<p t="135440" d="5320" w="1"><s ac="0">Passage</s><s t="560" ac="0"> seeing</s><s t="879" ac="0"> the</s><s t="1040" ac="0"> Antarctic</s><s t="1640" ac="0"> continent</s></p>
+<p t="137630" d="3130" w="1" a="1">
+</p>
+<p t="137640" d="4920" w="1"><s ac="0">emerge</s><s t="480" ac="0"> on</s><s t="679" ac="0"> the</s><s t="840" ac="0"> horizon</s><s t="1560" ac="0"> was</s><s t="1920" ac="0"> so</s><s t="2480" ac="0"> exciting</s></p>
+<p t="140750" d="1810" w="1" a="1">
+</p>
+<p t="140760" d="4280" w="1"><s ac="0">and</s><s t="119" ac="0"> I</s><s t="199" ac="0"> was</s><s t="400" ac="0"> kind</s><s t="559" ac="0"> of</s><s t="720" ac="0"> surprised</s><s t="1320" ac="0"> by</s><s t="1520" ac="0"> how</s></p>
+<p t="142550" d="2490" w="1" a="1">
+</p>
+<p t="142560" d="4720" w="1"><s ac="0">dramatic</s><s t="600" ac="0"> it</s><s t="759" ac="0"> was</s><s t="1319" ac="0"> in</s><s t="1520" ac="0"> some</s><s t="1720" ac="0"> ways</s><s t="2000" ac="0"> it</s><s t="2160" ac="0"> felt</s></p>
+<p t="145030" d="2250" w="1" a="1">
+</p>
+<p t="145040" d="4360" w="1"><s ac="0">like</s><s t="199" ac="0"> we&#39;d</s><s t="479" ac="0"> arrived</s><s t="1000" ac="0"> at</s><s t="1160" ac="0"> another</s><s t="1640" ac="0"> planet</s><s t="2080" ac="0"> and</s></p>
+<p t="147270" d="2130" w="1" a="1">
+</p>
+<p t="147280" d="4160" w="1"><s ac="0">the</s><s t="200" ac="0"> Expedition</s><s t="720" ac="0"> team</s><s t="1039" ac="0"> wasted</s><s t="1560" ac="0"> no</s><s t="1880" ac="0"> time</s></p>
+<p t="149390" d="2050" w="1" a="1">
+</p>
+<p t="149400" d="4320" w="1"><s ac="0">getting</s><s t="240" ac="0"> us</s><s t="559" ac="0"> out</s><s t="720" ac="0"> on</s><s t="880" ac="0"> Shore</s><s t="1360" ac="0"> so</s><s t="1520" ac="0"> the</s><s t="1640" ac="0"> way</s><s t="1880" ac="0"> this</s></p>
+<p t="151430" d="2290" w="1" a="1">
+</p>
+<p t="151440" d="4200" w="1"><s ac="0">works</s><s t="439" ac="0"> is</s><s t="600" ac="0"> the</s><s t="760" ac="0"> ship</s><s t="1000" ac="0"> hangs</s><s t="1280" ac="0"> out</s><s t="1600" ac="0"> offshore</s><s t="2159" ac="0"> of</s></p>
+<p t="153710" d="1930" w="1" a="1">
+</p>
+<p t="153720" d="4280" w="1"><s ac="0">a</s><s t="159" ac="0"> landing</s><s t="599" ac="0"> site</s><s t="1080" ac="0"> and</s><s t="1159" ac="0"> then</s><s t="1400" ac="0"> Expedition</s></p>
+<p t="155630" d="2370" w="1" a="1">
+</p>
+<p t="155640" d="4800" w="1"><s ac="0">leaders</s><s t="560" ac="0"> bring</s><s t="959" ac="0"> passengers</s><s t="1480" ac="0"> to</s><s t="1679" ac="0"> shore</s><s t="2080" ac="0"> in</s></p>
+<p t="157990" d="2450" w="1" a="1">
+</p>
+<p t="158000" d="4640" w="1"><s ac="0">zodiac</s><s t="519" ac="0"> boats</s><s t="1000" ac="0"> and</s><s t="1120" ac="0"> the</s><s t="1200" ac="0"> tentative</s><s t="1680" ac="0"> itinerary</s></p>
+<p t="160430" d="2210" w="1" a="1">
+</p>
+<p t="160440" d="4240" w="1"><s ac="0">of</s><s t="159" ac="0"> the</s><s t="320" ac="0"> sailing</s><s t="920" ac="0"> is</s><s t="1040" ac="0"> to</s><s t="1240" ac="0"> travel</s><s t="1640" ac="0"> along</s><s t="2040" ac="0"> the</s></p>
+<p t="162630" d="2050" w="1" a="1">
+</p>
+<p t="162640" d="5879" w="1"><s ac="0">Antarctic</s><s t="599" ac="0"> Peninsula</s><s t="1319" ac="0"> making</s><s t="1640" ac="0"> shorel</s></p>
+<p t="164670" d="3849" w="1" a="1">
+</p>
+<p t="164680" d="6199" w="1"><s ac="0">Landings</s><s t="559" ac="0"> every</s><s t="839" ac="0"> day</s><s t="1240" ac="0"> dependent</s><s t="1760" ac="0"> on</s><s t="2000" ac="0"> weather</s></p>
+<p t="168509" d="2370" w="1" a="1">
+</p>
+<p t="168519" d="4601" w="1"><s ac="0">conditions</s><s t="1000" ac="0"> the</s><s t="1121" ac="0"> thing</s><s t="1321" ac="0"> I</s><s t="1401" ac="0"> was</s><s t="1640" ac="0"> most</s><s t="1961" ac="0"> excited</s></p>
+<p t="170869" d="2251" w="1" a="1">
+</p>
+<p t="170879" d="4241" w="1"><s ac="0">about</s><s t="201" ac="0"> for</s><s t="401" ac="0"> this</s><s t="561" ac="0"> trip</s><s t="961" ac="0"> was</s><s t="1241" ac="0"> the</s><s t="1440" ac="0"> wildlife</s></p>
+<p t="173110" d="2010" w="1" a="1">
+</p>
+<p t="173120" d="4160" w="1"><s ac="0">especially</s><s t="440" ac="0"> Penguins</s><s t="1080" ac="0"> because</s><s t="1360" ac="0"> Antarctica</s></p>
+<p t="175110" d="2170" w="1" a="1">
+</p>
+<p t="175120" d="4240" w="1"><s ac="0">is</s><s t="160" ac="0"> home</s><s t="360" ac="0"> to</s><s t="560" ac="0"> some</s><s t="720" ac="0"> of</s><s t="880" ac="0"> the</s><s t="1119" ac="0"> largest</s><s t="1720" ac="0"> penguin</s></p>
+<p t="177270" d="2090" w="1" a="1">
+</p>
+<p t="177280" d="3959" w="1"><s ac="0">colonies</s><s t="599" ac="0"> in</s><s t="720" ac="0"> the</s><s t="920" ac="0"> world</s><s t="1440" ac="0"> and</s><s t="1560" ac="0"> it</s><s t="1679" ac="0"> did</s><s t="1879" ac="0"> not</s></p>
+<p t="179350" d="1889" w="1" a="1">
+</p>
+<p t="179360" d="4200" w="1"><s ac="0">disappoint</s><s t="519" ac="0"> point</s><s t="959" ac="0"> every</s><s t="1239" ac="0"> single</s><s t="1519" ac="0"> shorel</s></p>
+<p t="181229" d="2331" w="1" a="1">
+</p>
+<p t="181239" d="4161" w="1"><s ac="0">Landing</s><s t="521" ac="0"> had</s><s t="801" ac="0"> Penguins</s><s t="1601" ac="0"> we</s><s t="1720" ac="0"> saw</s><s t="2080" ac="0"> all</s></p>
+<p t="183550" d="1850" w="1" a="1">
+</p>
+<p t="183560" d="4720" w="1"><s ac="0">different</s><s t="360" ac="0"> types</s><s t="720" ac="0"> we</s><s t="840" ac="0"> saw</s><s t="1080" ac="0"> chinstrap</s></p>
+<p t="185390" d="2890" w="1" a="1">
+</p>
+<p t="185400" d="5080" w="1"><s ac="0">penguins</s><s t="559" ac="0"> which</s><s t="680" ac="0"> are</s><s t="880" ac="0"> named</s><s t="1399" ac="0"> for</s><s t="1680" ac="0"> the</s><s t="1960" ac="0"> obvious</s></p>
+<p t="188270" d="2210" w="1" a="1">
+</p>
+<p t="188280" d="5200" w="1"><s ac="0">we</s><s t="120" ac="0"> saw</s><s t="480" ac="0"> ad</s><s t="760" ac="0"> Deli</s><s t="1080" ac="0"> penguins</s><s t="1720" ac="0"> and</s><s t="1840" ac="0"> then</s><s t="1959" ac="0"> the</s></p>
+<p t="190470" d="3010" w="1" a="1">
+</p>
+<p t="190480" d="5800" w="1"><s ac="0">most</s><s t="399" ac="0"> common</s><s t="759" ac="0"> penguin</s><s t="1200" ac="0"> we</s><s t="1360" ac="0"> saw</s><s t="1880" ac="0"> was</s><s t="2160" ac="0"> the</s><s t="2319" ac="0"> gentu</s></p>
+<p t="193470" d="2810" w="1" a="1">
+</p>
+<p t="193480" d="4880" w="1"><s ac="0">and</s><s t="119" ac="0"> there</s><s t="240" ac="0"> were</s><s t="640" ac="0"> so</s><s t="1200" ac="0"> many</s><s t="1800" ac="0"> special</s><s t="2319" ac="0"> moments</s></p>
+<p t="196270" d="2090" w="1" a="1">
+</p>
+<p t="196280" d="4360" w="1"><s ac="0">like</s><s t="239" ac="0"> one</s><s t="440" ac="0"> Landing</s><s t="840" ac="0"> was</s><s t="1000" ac="0"> at</s><s t="1160" ac="0"> this</s><s t="1360" ac="0"> incredible</s></p>
+<p t="198350" d="2290" w="1" a="1">
+</p>
+<p t="198360" d="5040" w="1"><s ac="0">spot</s><s t="360" ac="0"> called</s><s t="760" ac="0"> Brown</s><s t="1159" ac="0"> Bluff</s><s t="1760" ac="0"> where</s><s t="2000" ac="0"> these</s></p>
+<p t="200630" d="2770" w="1" a="1">
+</p>
+<p t="200640" d="5560" w="1"><s ac="0">snowy</s><s t="519" ac="0"> Cliffs</s><s t="1120" ac="0"> hung</s><s t="1560" ac="0"> over</s><s t="1840" ac="0"> a</s><s t="2040" ac="0"> beach</s><s t="2480" ac="0"> and</s><s t="2640" ac="0"> there</s></p>
+<p t="203390" d="2810" w="1" a="1">
+</p>
+<p t="203400" d="5919" w="1"><s ac="0">were</s><s t="240" ac="0"> Penguins</s><s t="1040" ac="0"> everywhere</s><s t="1839" ac="0"> and</s><s t="2040" ac="0"> this</s><s t="2320" ac="0"> young</s></p>
+<p t="206190" d="3129" w="1" a="1">
+</p>
+<p t="206200" d="5520" w="1"><s ac="0">gentu</s><s t="599" ac="0"> penguin</s><s t="1399" ac="0"> was</s><s t="1640" ac="0"> napping</s><s t="2200" ac="0"> with</s><s t="2360" ac="0"> a</s><s t="2560" ac="0"> tuft</s><s t="2959" ac="0"> of</s></p>
+<p t="209309" d="2411" w="1" a="1">
+</p>
+<p t="209319" d="4200" w="1"><s ac="0">feather</s><s t="640" ac="0"> in</s><s t="840" ac="0"> its</s><s t="1120" ac="0"> beak</s><s t="1640" ac="0"> I</s><s t="1761" ac="0"> didn&#39;t</s><s t="2000" ac="0"> realize</s></p>
+<p t="211710" d="1809" w="1" a="1">
+</p>
+<p t="211720" d="4710" w="1"><s ac="0">Penguins</s><s t="400" ac="0"> napped</s><s t="799" ac="0"> like</s><s t="1000" ac="0"> this</s><s t="1360" ac="0"> and</s><s t="1519" ac="0"> it&#39;s</s><s t="1680" ac="0"> one</s></p>
+<p t="213509" d="2921" w="1" a="1">
+</p>
+<p t="213519" d="5961" w="1"><s ac="0">of</s><s t="121" ac="0"> the</s><s t="280" ac="0"> most</s><s t="561" ac="0"> precious</s><s t="961" ac="0"> things</s><s t="1280" ac="0"> I&#39;ve</s><s t="1521" ac="0"> ever</s></p>
+<p t="216420" d="3060" w="1" a="1">
+</p>
+<p t="216430" d="6169" w="1">[Applause]</p>
+<p t="219470" d="3129" w="1" a="1">
+</p>
+<p t="219480" d="6839" w="1"><s ac="0">seen</s><s t="1000" ac="0"> we</s><s t="1200" ac="0"> also</s><s t="1440" ac="0"> saw</s><s t="1839" ac="0"> lots</s><s t="2080" ac="0"> of</s><s t="2280" ac="0"> chicks</s><s t="2839" ac="0"> even</s></p>
+<p t="222589" d="3730" w="1" a="1">
+</p>
+<p t="222599" d="6161" w="1"><s ac="0">some</s><s t="321" ac="0"> twins</s><s t="1200" ac="0"> I</s><s t="1360" ac="0"> was</s><s t="1840" ac="0"> giddy</s><s t="2441" ac="0"> getting</s><s t="2801" ac="0"> this</s><s t="2961" ac="0"> shot</s></p>
+<p t="226309" d="2451" w="1" a="1">
+</p>
+<p t="226319" d="5441" w="1"><s ac="0">and</s><s t="120" ac="0"> do</s><s t="280" ac="0"> you</s><s t="441" ac="0"> see</s><s t="840" ac="0"> this</s><s t="1361" ac="0"> this</s><s t="1601" ac="0"> is</s><s t="1721" ac="0"> a</s><s t="1961" ac="0"> baby</s></p>
+<p t="228750" d="3010" w="1" a="1">
+</p>
+<p t="228760" d="6080" w="1"><s ac="0">penguin</s><s t="559" ac="0"> butt</s><s t="1240" ac="0"> with</s><s t="1399" ac="0"> this</s><s t="1640" ac="0"> little</s><s t="1960" ac="0"> nubby</s><s t="2399" ac="0"> tail</s></p>
+<p t="231750" d="3090" w="1" a="1">
+</p>
+<p t="231760" d="5199" w="1"><s ac="0">I</s><s t="80" ac="0"> mean</s><s t="440" ac="0"> it</s><s t="600" ac="0"> was</s><s t="880" ac="0"> all</s><s t="1440" ac="0"> just</s><s t="2119" ac="0"> magical</s><s t="2800" ac="0"> something</s></p>
+<p t="234830" d="2129" w="1" a="1">
+</p>
+<p t="234840" d="4399" w="1"><s ac="0">I</s><s t="119" ac="0"> didn&#39;t</s><s t="399" ac="0"> realize</s><s t="959" ac="0"> is</s><s t="1200" ac="0"> that</s><s t="1440" ac="0"> while</s><s t="1720" ac="0"> adult</s></p>
+<p t="236949" d="2290" w="1" a="1">
+</p>
+<p t="236959" d="3920" w="1"><s ac="0">penguins</s><s t="480" ac="0"> swim</s><s t="1120" ac="0"> it&#39;s</s><s t="1321" ac="0"> important</s><s t="1721" ac="0"> for</s><s t="1961" ac="0"> babies</s></p>
+<p t="239229" d="1650" w="1" a="1">
+</p>
+<p t="239239" d="3441" w="1"><s ac="0">to</s><s t="121" ac="0"> stay</s><s t="560" ac="0"> dry</s><s t="881" ac="0"> because</s><s t="1080" ac="0"> their</s><s t="1241" ac="0"> feathers</s></p>
+<p t="240869" d="1811" w="1" a="1">
+</p>
+<p t="240879" d="4241" w="1"><s ac="0">aren&#39;t</s><s t="360" ac="0"> waterproof</s><s t="1080" ac="0"> and</s><s t="1200" ac="0"> that&#39;s</s><s t="1360" ac="0"> one</s><s t="1481" ac="0"> of</s><s t="1601" ac="0"> the</s></p>
+<p t="242670" d="2450" w="1" a="1">
+</p>
+<p t="242680" d="4000" w="1"><s ac="0">biggest</s><s t="360" ac="0"> survival</s><s t="960" ac="0"> challenges</s><s t="1559" ac="0"> for</s><s t="1839" ac="0"> parents</s></p>
+<p t="245110" d="1570" w="1" a="1">
+</p>
+<p t="245120" d="3560" w="1"><s ac="0">especially</s><s t="360" ac="0"> when</s><s t="479" ac="0"> they</s><s t="600" ac="0"> get</s><s t="720" ac="0"> an</s><s t="880" ac="0"> unusually</s></p>
+<p t="246670" d="2010" w="1" a="1">
+</p>
+<p t="246680" d="4320" w="1"><s ac="0">wet</s><s t="279" ac="0"> season</s><s t="800" ac="0"> because</s><s t="1080" ac="0"> they</s><s t="1240" ac="0"> not</s><s t="1399" ac="0"> only</s><s t="1639" ac="0"> need</s><s t="1839" ac="0"> to</s></p>
+<p t="248670" d="2330" w="1" a="1">
+</p>
+<p t="248680" d="4080" w="1"><s ac="0">find</s><s t="199" ac="0"> a</s><s t="360" ac="0"> dry</s><s t="720" ac="0"> place</s><s t="960" ac="0"> to</s><s t="1080" ac="0"> build</s><s t="1360" ac="0"> their</s><s t="1559" ac="0"> nest</s><s t="2119" ac="0"> but</s></p>
+<p t="250990" d="1770" w="1" a="1">
+</p>
+<p t="251000" d="4079" w="1"><s ac="0">once</s><s t="200" ac="0"> the</s><s t="360" ac="0"> baby</s><s t="599" ac="0"> is</s><s t="760" ac="0"> born</s><s t="1120" ac="0"> they</s><s t="1239" ac="0"> need</s><s t="1400" ac="0"> to</s><s t="1599" ac="0"> keep</s></p>
+<p t="252750" d="2329" w="1" a="1">
+</p>
+<p t="252760" d="5240" w="1"><s ac="0">it</s><s t="199" ac="0"> covered</s><s t="600" ac="0"> from</s><s t="880" ac="0"> rain</s><s t="1319" ac="0"> and</s></p>
+<p t="255069" d="2931" w="1" a="1">
+</p>
+<p t="255079" d="4840" w="1"><s ac="0">snow</s><s t="1000" ac="0"> penguins</s><s t="1440" ac="0"> are</s><s t="1680" ac="0"> really</s><s t="1961" ac="0"> social</s><s t="2440" ac="0"> animals</s></p>
+<p t="257990" d="1929" w="1" a="1">
+</p>
+<p t="258000" d="4040" w="1"><s ac="0">and</s><s t="120" ac="0"> it&#39;s</s><s t="519" ac="0"> fascinating</s><s t="1160" ac="0"> to</s><s t="1400" ac="0"> watch</s><s t="1680" ac="0"> them</s></p>
+<p t="259909" d="2131" w="1" a="1">
+</p>
+<p t="259919" d="4481" w="1"><s ac="0">interact</s><s t="521" ac="0"> with</s><s t="720" ac="0"> each</s><s t="840" ac="0"> other</s><s t="1320" ac="0"> but</s><s t="1521" ac="0"> as</s><s t="1720" ac="0"> cute</s><s t="1961" ac="0"> as</s></p>
+<p t="262030" d="2370" w="1" a="1">
+</p>
+<p t="262040" d="4879" w="1"><s ac="0">they</s><s t="120" ac="0"> are</s><s t="320" ac="0"> as</s><s t="520" ac="0"> babies</s><s t="1360" ac="0"> they</s><s t="1560" ac="0"> go</s><s t="1800" ac="0"> through</s><s t="2000" ac="0"> a</s></p>
+<p t="264390" d="2529" w="1" a="1">
+</p>
+<p t="264400" d="4440" w="1"><s ac="0">really</s><s t="519" ac="0"> awkward</s><s t="1079" ac="0"> phase</s><s t="1440" ac="0"> growing</s><s t="1799" ac="0"> up</s><s t="2160" ac="0"> I</s><s t="2239" ac="0"> mean</s></p>
+<p t="266909" d="1931" w="1" a="1">
+</p>
+<p t="266919" d="4761" w="1"><s ac="0">you</s><s t="201" ac="0"> think</s><s t="481" ac="0"> you</s><s t="761" ac="0"> had</s><s t="1000" ac="0"> some</s><s t="1201" ac="0"> bad</s><s t="1441" ac="0"> looks</s><s t="1681" ac="0"> in</s><s t="1801" ac="0"> your</s></p>
+<p t="268830" d="2850" w="1" a="1">
+</p>
+<p t="268840" d="4680" w="1"><s ac="0">teenage</s><s t="400" ac="0"> years</s><s t="1120" ac="0"> look</s><s t="1320" ac="0"> at</s><s t="1680" ac="0"> this</s><s t="2040" ac="0"> guy</s><s t="2560" ac="0"> and</s><s t="2720" ac="0"> then</s></p>
+<p t="271670" d="1850" w="1" a="1">
+</p>
+<p t="271680" d="3840" w="1"><s ac="0">you</s><s t="200" ac="0"> have</s><s t="440" ac="0"> this</s><s t="560" ac="0"> one</s><s t="799" ac="0"> whose</s><s t="1120" ac="0"> parent</s><s t="1480" ac="0"> is</s><s t="1600" ac="0"> trying</s></p>
+<p t="273510" d="2010" w="1" a="1">
+</p>
+<p t="273520" d="4200" w="1"><s ac="0">to</s><s t="160" ac="0"> groom</s><s t="480" ac="0"> it</s><s t="640" ac="0"> and</s><s t="760" ac="0"> it&#39;s</s><s t="880" ac="0"> running</s><s t="1200" ac="0"> away</s><s t="1560" ac="0"> like</s></p>
+<p t="275510" d="2210" w="1" a="1">
+</p>
+<p t="275520" d="4560" w="1"><s ac="0">stop</s><s t="399" ac="0"> you&#39;re</s><s t="679" ac="0"> embarrassing</s><s t="1360" ac="0"> me</s><s t="1760" ac="0"> they</s><s t="1920" ac="0"> also</s></p>
+<p t="277710" d="2370" w="1" a="1">
+</p>
+<p t="277720" d="4280" w="1"><s ac="0">create</s><s t="319" ac="0"> what&#39;s</s><s t="560" ac="0"> known</s><s t="960" ac="0"> as</s><s t="1240" ac="0"> penguin</s><s t="1720" ac="0"> highways</s></p>
+<p t="280070" d="1930" w="1" a="1">
+</p>
+<p t="280080" d="4200" w="1"><s ac="0">which</s><s t="160" ac="0"> are</s><s t="480" ac="0"> dedicated</s><s t="1040" ac="0"> trails</s><s t="1559" ac="0"> that</s><s t="1679" ac="0"> you</s><s t="1800" ac="0"> can</s></p>
+<p t="281990" d="2290" w="1" a="1">
+</p>
+<p t="282000" d="7919" w="1"><s ac="0">see</s><s t="199" ac="0"> them</s><s t="360" ac="0"> all</s><s t="600" ac="0"> walking</s><s t="919" ac="0"> on</s><s t="1199" ac="0"> in</s><s t="1320" ac="0"> a</s></p>
+<p t="284270" d="5649" w="1" a="1">
+</p>
+<p t="284280" d="8280" w="1">[Music]</p>
+<p t="289909" d="2651" w="1" a="1">
+</p>
+<p t="289919" d="6000" w="1"><s ac="0">line</s><s t="1000" ac="0"> I</s><s t="1120" ac="0"> just</s><s t="1280" ac="0"> made</s><s t="1441" ac="0"> it</s><s t="1601" ac="0"> back</s><s t="1801" ac="0"> to</s><s t="1961" ac="0"> the</s><s t="2081" ac="0"> ship</s></p>
+<p t="292550" d="3369" w="1" a="1">
+</p>
+<p t="292560" d="6400" w="1"><s ac="0">these</s><s t="240" ac="0"> Landings</s><s t="1199" ac="0"> are</s><s t="1639" ac="0"> so</s><s t="2479" ac="0"> amazing</s><s t="3079" ac="0"> it</s><s t="3160" ac="0"> is</s></p>
+<p t="295909" d="3051" w="1" a="1">
+</p>
+<p t="295919" d="6601" w="1"><s ac="0">incredible</s><s t="601" ac="0"> to</s><s t="801" ac="0"> see</s><s t="1321" ac="0"> so</s><s t="1560" ac="0"> much</s><s t="1881" ac="0"> wildlife</s><s t="2641" ac="0"> in</s></p>
+<p t="298950" d="3570" w="1" a="1">
+</p>
+<p t="298960" d="5400" w="1"><s ac="0">such</s><s t="280" ac="0"> a</s><s t="880" ac="0"> remote</s><s t="1880" ac="0"> Wilderness</s><s t="2880" ac="0"> to</s><s t="3079" ac="0"> protect</s><s t="3440" ac="0"> all</s></p>
+<p t="302510" d="1850" w="1" a="1">
+</p>
+<p t="302520" d="3840" w="1"><s ac="0">of</s><s t="160" ac="0"> this</s><s t="360" ac="0"> wildlife</s><s t="959" ac="0"> and</s><s t="1119" ac="0"> the</s><s t="1280" ac="0"> environment</s></p>
+<p t="304350" d="2010" w="1" a="1">
+</p>
+<p t="304360" d="4040" w="1"><s ac="0">there</s><s t="119" ac="0"> are</s><s t="440" ac="0"> a</s><s t="679" ac="0"> lot</s><s t="880" ac="0"> of</s><s t="1080" ac="0"> rules</s><s t="1520" ac="0"> we</s><s t="1679" ac="0"> have</s><s t="1800" ac="0"> to</s></p>
+<p t="306350" d="2050" w="1" a="1">
+</p>
+<p t="306360" d="4040" w="1"><s ac="0">follow</s><s t="559" ac="0"> to</s><s t="720" ac="0"> be</s><s t="880" ac="0"> able</s><s t="1080" ac="0"> to</s><s t="1320" ac="0"> do</s><s t="1559" ac="0"> these</s><s t="1720" ac="0"> Shore</s></p>
+<p t="308390" d="2010" w="1" a="1">
+</p>
+<p t="308400" d="4160" w="1"><s ac="0">Landings</s><s t="720" ac="0"> we</s><s t="840" ac="0"> have</s><s t="960" ac="0"> to</s><s t="1079" ac="0"> be</s><s t="1280" ac="0"> really</s><s t="1560" ac="0"> careful</s></p>
+<p t="310390" d="2170" w="1" a="1">
+</p>
+<p t="310400" d="4680" w="1"><s ac="0">about</s><s t="239" ac="0"> what</s><s t="400" ac="0"> we</s><s t="560" ac="0"> wear</s><s t="960" ac="0"> and</s><s t="1160" ac="0"> what</s><s t="1280" ac="0"> we</s><s t="1440" ac="0"> bring</s><s t="1920" ac="0"> on</s></p>
+<p t="312550" d="2530" w="1" a="1">
+</p>
+<p t="312560" d="4880" w="1"><s ac="0">Shore</s><s t="800" ac="0"> and</s><s t="960" ac="0"> once</s><s t="1199" ac="0"> we&#39;re</s><s t="1479" ac="0"> on</s><s t="1800" ac="0"> land</s><s t="2160" ac="0"> we</s><s t="2280" ac="0"> can&#39;t</s></p>
+<p t="315070" d="2370" w="1" a="1">
+</p>
+<p t="315080" d="5080" w="1"><s ac="0">set</s><s t="280" ac="0"> anything</s><s t="760" ac="0"> down</s><s t="1119" ac="0"> and</s><s t="1360" ac="0"> before</s><s t="1600" ac="0"> we</s><s t="1760" ac="0"> go</s><s t="1920" ac="0"> out</s></p>
+<p t="317430" d="2730" w="1" a="1">
+</p>
+<p t="317440" d="4000" w="1"><s ac="0">we</s><s t="520" ac="0"> walk</s><s t="800" ac="0"> through</s><s t="1080" ac="0"> these</s><s t="1319" ac="0"> disinfecting</s><s t="2160" ac="0"> tubs</s></p>
+<p t="320150" d="1290" w="1" a="1">
+</p>
+<p t="320160" d="4120" w="1"><s ac="0">and</s><s t="120" ac="0"> this</s><s t="240" ac="0"> is</s><s t="360" ac="0"> to</s><s t="479" ac="0"> make</s><s t="640" ac="0"> sure</s><s t="800" ac="0"> that</s><s t="920" ac="0"> we&#39;re</s><s t="1080" ac="0"> not</s></p>
+<p t="321430" d="2850" w="1" a="1">
+</p>
+<p t="321440" d="4800" w="1"><s ac="0">spreading</s><s t="560" ac="0"> disease</s><s t="1440" ac="0"> from</s><s t="1960" ac="0"> bird</s><s t="2360" ac="0"> colony</s><s t="2680" ac="0"> to</s></p>
+<p t="324270" d="1970" w="1" a="1">
+</p>
+<p t="324280" d="4400" w="1"><s ac="0">bird</s><s t="280" ac="0"> Colony</s><s t="680" ac="0"> or</s><s t="840" ac="0"> throughout</s><s t="1199" ac="0"> the</s><s t="1359" ac="0"> wildlife</s></p>
+<p t="326230" d="2450" w="1" a="1">
+</p>
+<p t="326240" d="4400" w="1"><s ac="0">or</s><s t="120" ac="0"> the</s><s t="320" ac="0"> environment</s><s t="1160" ac="0"> very</s><s t="1399" ac="0"> cool</s><s t="1799" ac="0"> experience</s></p>
+<p t="328670" d="1970" w="1" a="1">
+</p>
+<p t="328680" d="16300" w="1"><s ac="0">and</s><s t="359" ac="0"> I&#39;m</s><s t="480" ac="0"> just</s><s t="600" ac="0"> so</s><s t="760" ac="0"> happy</s><s t="1040" ac="0"> happy</s><s t="1239" ac="0"> to</s><s t="1320" ac="0"> be</s></p>
+<p t="330630" d="14350" w="1" a="1">
+</p>
+<p t="330640" d="14340" w="1">[Music]</p>
+<p t="346309" w="1" a="1">
+</p>
+<p t="346319" d="5201" w="1"><s ac="0">here</s><s t="1000" ac="0"> the</s><s t="1201" ac="0"> most</s><s t="1801" ac="0"> magical</s><s t="2320" ac="0"> thing</s><s t="2600" ac="0"> is</s><s t="2801" ac="0"> happening</s></p>
+<p t="349550" d="1970" w="1" a="1">
+</p>
+<p t="349560" d="4440" w="1"><s ac="0">right</s><s t="120" ac="0"> now</s><s t="280" ac="0"> we&#39;re</s><s t="440" ac="0"> sailing</s><s t="880" ac="0"> in</s><s t="1040" ac="0"> this</s><s t="1280" ac="0"> area</s></p>
+<p t="351510" d="2490" w="1" a="1">
+</p>
+<p t="351520" d="4679" w="1"><s ac="0">where</s><s t="119" ac="0"> we&#39;re</s><s t="320" ac="0"> surrounded</s><s t="799" ac="0"> by</s><s t="1080" ac="0"> giant</s><s t="1560" ac="0"> icebergs</s></p>
+<p t="353990" d="2209" w="1" a="1">
+</p>
+<p t="354000" d="5800" w="1"><s ac="0">and</s><s t="360" ac="0"> mountains</s><s t="919" ac="0"> and</s><s t="1080" ac="0"> it&#39;s</s><s t="1280" ac="0"> snowing</s><s t="1960" ac="0"> the</s></p>
+<p t="356189" d="3611" w="1" a="1">
+</p>
+<p t="356199" d="6560" w="1"><s ac="0">lightest</s><s t="1000" ac="0"> fluffiest</s><s t="2041" ac="0"> snowflakes</s><s t="3041" ac="0"> and</s><s t="3201" ac="0"> we&#39;re</s></p>
+<p t="359790" d="2969" w="1" a="1">
+</p>
+<p t="359800" d="5600" w="1"><s ac="0">surrounded</s><s t="839" ac="0"> by</s><s t="1200" ac="0"> whales</s><s t="1839" ac="0"> they&#39;re</s><s t="2080" ac="0"> in</s><s t="2560" ac="0"> every</s></p>
+<p t="362749" d="2651" w="1" a="1">
+</p>
+<p t="362759" d="5481" w="1"><s ac="0">direction</s><s t="761" ac="0"> I</s><s t="921" ac="0"> couldn&#39;t</s><s t="1241" ac="0"> have</s><s t="1440" ac="0"> dreamed</s><s t="2000" ac="0"> up</s><s t="2481" ac="0"> a</s></p>
+<p t="365390" d="2850" w="1" a="1">
+</p>
+<p t="365400" d="5280" w="1"><s ac="0">more</s><s t="600" ac="0"> beautiful</s></p>
+<p t="368230" d="2450" w="1" a="1">
+</p>
+<p t="368240" d="4600" w="1"><s ac="0">setting</s><s t="1000" ac="0"> with</s><s t="1200" ac="0"> such</s><s t="1440" ac="0"> incredible</s><s t="2120" ac="0"> conditions</s></p>
+<p t="370670" d="2170" w="1" a="1">
+</p>
+<p t="370680" d="4720" w="1"><s ac="0">around</s><s t="359" ac="0"> us</s><s t="639" ac="0"> the</s><s t="840" ac="0"> Expedition</s><s t="1359" ac="0"> team</s><s t="1720" ac="0"> prepared</s></p>
+<p t="372830" d="2570" w="1" a="1">
+</p>
+<p t="372840" d="4799" w="1"><s ac="0">The</s><s t="160" ac="0"> Zodiacs</s><s t="840" ac="0"> and</s><s t="1000" ac="0"> got</s><s t="1240" ac="0"> us</s><s t="1400" ac="0"> out</s><s t="1680" ac="0"> on</s><s t="1880" ac="0"> the</s><s t="2079" ac="0"> water</s></p>
+<p t="375390" d="2249" w="1" a="1">
+</p>
+<p t="375400" d="4880" w="1"><s ac="0">and</s><s t="280" ac="0"> this</s><s t="519" ac="0"> afternoon</s><s t="1280" ac="0"> was</s><s t="1560" ac="0"> probably</s><s t="2000" ac="0"> my</s></p>
+<p t="377629" d="2651" w="1" a="1">
+</p>
+<p t="377639" d="5521" w="1"><s ac="0">favorite</s><s t="400" ac="0"> of</s><s t="601" ac="0"> the</s><s t="801" ac="0"> entire</s><s t="1441" ac="0"> trip</s><s t="1960" ac="0"> we</s><s t="2120" ac="0"> sat</s><s t="2400" ac="0"> on</s></p>
+<p t="380270" d="2890" w="1" a="1">
+</p>
+<p t="380280" d="6400" w="1"><s ac="0">this</s><s t="280" ac="0"> water</s><s t="800" ac="0"> that</s><s t="960" ac="0"> was</s><s t="1280" ac="0"> like</s><s t="1840" ac="0"> glass</s><s t="2520" ac="0"> in</s><s t="2680" ac="0"> the</s></p>
+<p t="383150" d="3530" w="1" a="1">
+</p>
+<p t="383160" d="6400" w="1"><s ac="0">fog</s><s t="599" ac="0"> in</s><s t="759" ac="0"> the</s><s t="1039" ac="0"> snow</s><s t="1800" ac="0"> while</s><s t="2120" ac="0"> humpback</s><s t="2800" ac="0"> whales</s></p>
+<p t="386670" d="2890" w="1" a="1">
+</p>
+<p t="386680" d="6040" w="1"><s ac="0">surfaced</s><s t="720" ac="0"> all</s><s t="1040" ac="0"> around</s><s t="1480" ac="0"> us</s><s t="1880" ac="0"> this</s><s t="2040" ac="0"> was</s><s t="2200" ac="0"> the</s><s t="2320" ac="0"> most</s></p>
+<p t="389550" d="3170" w="1" a="1">
+</p>
+<p t="389560" d="6770" w="1"><s ac="0">etheral</s><s t="639" ac="0"> experience</s><s t="1520" ac="0"> of</s><s t="1880" ac="0"> my</s><s t="2199" ac="0"> life</s><s t="2600" ac="0"> the</s><s t="2759" ac="0"> camera</s></p>
+<p t="392710" d="3620" w="1" a="1">
+</p>
+<p t="392720" d="7810" w="1"><s ac="0">can&#39;t</s><s t="240" ac="0"> even</s><s t="440" ac="0"> do</s><s t="599" ac="0"> it</s><s t="800" ac="0"> justice</s></p>
+<p t="396320" d="4210" w="1" a="1">
+</p>
+<p t="396330" d="5600" w="1">[Music]</p>
+<p t="400520" d="1410" w="1" a="1">
+</p>
+<p t="400530" d="12440" w="1">[Applause]</p>
+<p t="401920" d="11050" w="1" a="1">
+</p>
+<p t="401930" d="12680" w="1">[Music]</p>
+<p t="412960" d="1650" w="1" a="1">
+</p>
+<p t="412970" d="9590" w="1">[Applause]</p>
+<p t="414600" d="7960" w="1" a="1">
+</p>
+<p t="414610" d="7950" w="1">[Music]</p>
+<p t="428629" w="1" a="1">
+</p>
+<p t="428639" d="5441" w="1"><s ac="0">something</s><s t="560" ac="0"> very</s><s t="921" ac="0"> cool</s><s t="1321" ac="0"> and</s><s t="1521" ac="0"> unique</s><s t="1921" ac="0"> about</s><s t="2081" ac="0"> the</s></p>
+<p t="430830" d="3250" w="1" a="1">
+</p>
+<p t="430840" d="5799" w="1"><s ac="0">Seaborn</s><s t="479" ac="0"> Venture</s><s t="1000" ac="0"> is</s><s t="1160" ac="0"> it</s><s t="1400" ac="0"> has</s><s t="1840" ac="0"> two</s><s t="2520" ac="0"> custom</s></p>
+<p t="434070" d="2569" w="1" a="1">
+</p>
+<p t="434080" d="6920" w="1"><s ac="0">Expedition</s><s t="720" ac="0"> submarines</s><s t="1679" ac="0"> and</s><s t="1880" ac="0"> guests</s><s t="2320" ac="0"> can</s></p>
+<p t="436629" d="4371" w="1" a="1">
+</p>
+<p t="436639" d="6321" w="1"><s ac="0">sign</s><s t="361" ac="0"> up</s><s t="641" ac="0"> to</s><s t="921" ac="0"> go</s><s t="1481" ac="0"> on</s><s t="1721" ac="0"> a</s><s t="2280" ac="0"> submarine</s><s t="3361" ac="0"> experience</s></p>
+<p t="440990" d="1970" w="1" a="1">
+</p>
+<p t="441000" d="3960" w="1"><s ac="0">I</s><s t="80" ac="0"> didn&#39;t</s><s t="360" ac="0"> even</s><s t="599" ac="0"> realize</s><s t="1160" ac="0"> technology</s><s t="1720" ac="0"> was</s></p>
+<p t="442950" d="2010" w="1" a="1">
+</p>
+<p t="442960" d="4600" w="1"><s ac="0">here</s><s t="239" ac="0"> yet</s><s t="440" ac="0"> and</s><s t="639" ac="0"> these</s><s t="799" ac="0"> submarines</s><s t="1320" ac="0"> can</s><s t="1560" ac="0"> dive</s></p>
+<p t="444950" d="2610" w="1" a="1">
+</p>
+<p t="444960" d="5720" w="1"><s ac="0">nearly</s><s t="519" ac="0"> 1,000</s><s t="1440" ac="0"> ft</s><s t="1919" ac="0"> giving</s><s t="2160" ac="0"> you</s><s t="2400" ac="0"> the</s></p>
+<p t="447550" d="3130" w="1" a="1">
+</p>
+<p t="447560" d="6120" w="1"><s ac="0">opportunity</s><s t="680" ac="0"> to</s><s t="840" ac="0"> see</s><s t="1400" ac="0"> wildlife</s><s t="2079" ac="0"> plant</s><s t="2440" ac="0"> life</s></p>
+<p t="450670" d="3010" w="1" a="1">
+</p>
+<p t="450680" d="6280" w="1"><s ac="0">in</s><s t="400" ac="0"> depths</s><s t="959" ac="0"> of</s><s t="1160" ac="0"> the</s><s t="1359" ac="0"> ocean</s><s t="1919" ac="0"> where</s><s t="2280" ac="0"> very</s><s t="2600" ac="0"> few</s></p>
+<p t="453670" d="3290" w="1" a="1">
+</p>
+<p t="453680" d="3280" w="1"><s ac="0">humans</s><s t="519" ac="0"> have</s><s t="959" ac="0"> ever</s></p>
+<p t="459630" w="1" a="1">
+</p>
+<p t="459640" d="3100" w="1">[Music]</p>
+<p t="472469" w="1" a="1">
+</p>
+<p t="472479" d="5400" w="1"><s ac="0">been</s><s t="1000" ac="0"> another</s><s t="1400" ac="0"> Excursion</s><s t="1921" ac="0"> available</s><s t="2400" ac="0"> on</s><s t="2560" ac="0"> this</s></p>
+<p t="475149" d="2730" w="1" a="1">
+</p>
+<p t="475159" d="4401" w="1"><s ac="0">sailing</s><s t="600" ac="0"> is</s><s t="961" ac="0"> kaying</s><s t="1760" ac="0"> early</s><s t="2040" ac="0"> one</s><s t="2241" ac="0"> morning</s><s t="2641" ac="0"> I</s></p>
+<p t="477869" d="1691" w="1" a="1">
+</p>
+<p t="477879" d="4040" w="1"><s ac="0">went</s><s t="160" ac="0"> out</s><s t="320" ac="0"> with</s><s t="440" ac="0"> the</s><s t="600" ac="0"> Expedition</s><s t="1081" ac="0"> team</s><s t="1320" ac="0"> to</s></p>
+<p t="479550" d="2369" w="1" a="1">
+</p>
+<p t="479560" d="4840" w="1"><s ac="0">kayak</s><s t="479" ac="0"> among</s><s t="1000" ac="0"> icebergs</s><s t="1759" ac="0"> and</s><s t="1919" ac="0"> before</s><s t="2199" ac="0"> this</s></p>
+<p t="481909" d="2491" w="1" a="1">
+</p>
+<p t="481919" d="5041" w="1"><s ac="0">trip</s><s t="400" ac="0"> I&#39;d</s><s t="641" ac="0"> never</s><s t="1041" ac="0"> considered</s><s t="1720" ac="0"> cold</s><s t="2081" ac="0"> weather</s></p>
+<p t="484390" d="2570" w="1" a="1">
+</p>
+<p t="484400" d="6840" w="1"><s ac="0">climates</s><s t="400" ac="0"> for</s><s t="639" ac="0"> kaying</s><s t="1519" ac="0"> but</s><s t="1639" ac="0"> it</s><s t="1759" ac="0"> was</s><s t="2079" ac="0"> such</s><s t="2320" ac="0"> a</s></p>
+<p t="486950" d="4290" w="1" a="1">
+</p>
+<p t="486960" d="4280" w="1"><s ac="0">cool</s><s t="560" ac="0"> experience</s><s t="1560" ac="0"> oh</s><s t="1799" ac="0"> my</s></p>
+<p t="492270" w="1" a="1">
+</p>
+<p t="492280" d="6130" w="1"><s ac="0">gosh</s><s t="1000" ac="0"> look</s><s t="1199" ac="0"> at</s></p>
+<p t="494520" d="3890" w="1" a="1">
+</p>
+<p t="494530" d="3880" w="1">[Music]</p>
+<p t="499869" w="1" a="1">
+</p>
+<p t="499879" d="4201" w="1"><s ac="0">that</s><s t="1000" ac="0"> it&#39;s</s><s t="1160" ac="0"> another</s><s t="1561" ac="0"> beautiful</s><s t="2081" ac="0"> day</s><s t="2401" ac="0"> in</s></p>
+<p t="502469" d="1611" w="1" a="1">
+</p>
+<p t="502479" d="3321" w="1"><s ac="0">Antarctica</s><s t="801" ac="0"> and</s><s t="1000" ac="0"> today</s><s t="1160" ac="0"> we&#39;re</s><s t="1280" ac="0"> doing</s></p>
+<p t="504070" d="1730" w="1" a="1">
+</p>
+<p t="504080" d="4280" w="1"><s ac="0">something</s><s t="679" ac="0"> a</s><s t="799" ac="0"> little</s><s t="1119" ac="0"> different</s><s t="1480" ac="0"> we&#39;re</s></p>
+<p t="505790" d="2570" w="1" a="1">
+</p>
+<p t="505800" d="5399" w="1"><s ac="0">stopping</s><s t="440" ac="0"> in</s><s t="720" ac="0"> Port</s><s t="1040" ac="0"> lockroy</s><s t="1920" ac="0"> which</s><s t="2160" ac="0"> has</s><s t="2399" ac="0"> the</s></p>
+<p t="508350" d="2849" w="1" a="1">
+</p>
+<p t="508360" d="4559" w="1"><s ac="0">world&#39;s</s><s t="640" ac="0"> Southern</s><s t="1200" ac="0"> most</s><s t="1679" ac="0"> post</s><s t="2080" ac="0"> office</s><s t="2679" ac="0"> and</s></p>
+<p t="511189" d="1730" w="1" a="1">
+</p>
+<p t="511199" d="3481" w="1"><s ac="0">apparently</s><s t="400" ac="0"> there&#39;s</s><s t="641" ac="0"> a</s><s t="761" ac="0"> little</s><s t="1080" ac="0"> gift</s><s t="1280" ac="0"> shop</s></p>
+<p t="512909" d="1771" w="1" a="1">
+</p>
+<p t="512919" d="4240" w="1"><s ac="0">there</s><s t="201" ac="0"> where</s><s t="321" ac="0"> you</s><s t="441" ac="0"> can</s><s t="600" ac="0"> buy</s><s t="841" ac="0"> postcards</s><s t="1480" ac="0"> and</s></p>
+<p t="514670" d="2489" w="1" a="1">
+</p>
+<p t="514680" d="5279" w="1"><s ac="0">Postage</s><s t="520" ac="0"> and</s><s t="680" ac="0"> mail</s></p>
+<p t="517149" d="2810" w="1" a="1">
+</p>
+<p t="517159" d="4880" w="1"><s ac="0">letters</s><s t="1000" ac="0"> Port</s><s t="1281" ac="0"> lockroy</s><s t="1880" ac="0"> is</s><s t="2000" ac="0"> a</s><s t="2120" ac="0"> former</s><s t="2440" ac="0"> British</s></p>
+<p t="519949" d="2090" w="1" a="1">
+</p>
+<p t="519959" d="4041" w="1"><s ac="0">military</s><s t="481" ac="0"> base</s><s t="760" ac="0"> and</s><s t="880" ac="0"> it&#39;s</s><s t="1080" ac="0"> also</s><s t="1361" ac="0"> nicknamed</s></p>
+<p t="522029" d="1971" w="1" a="1">
+</p>
+<p t="522039" d="4281" w="1"><s ac="0">The</s><s t="201" ac="0"> Penguin</s><s t="641" ac="0"> post</s><s t="1000" ac="0"> office</s><s t="1521" ac="0"> because</s><s t="1761" ac="0"> it&#39;s</s></p>
+<p t="523990" d="2330" w="1" a="1">
+</p>
+<p t="524000" d="4760" w="1"><s ac="0">home</s><s t="200" ac="0"> to</s><s t="360" ac="0"> a</s><s t="480" ac="0"> gentu</s><s t="920" ac="0"> penguin</s><s t="1279" ac="0"> Colony</s><s t="1880" ac="0"> that</s><s t="2040" ac="0"> has</s></p>
+<p t="526310" d="2450" w="1" a="1">
+</p>
+<p t="526320" d="4199" w="1"><s ac="0">made</s><s t="320" ac="0"> the</s><s t="560" ac="0"> place</s><s t="959" ac="0"> their</s><s t="1160" ac="0"> own</s><s t="1720" ac="0"> I</s><s t="1840" ac="0"> just</s><s t="2079" ac="0"> loved</s></p>
+<p t="528750" d="1769" w="1" a="1">
+</p>
+<p t="528760" d="3800" w="1"><s ac="0">seeing</s><s t="280" ac="0"> them</s><s t="440" ac="0"> all</s><s t="720" ac="0"> in</s><s t="840" ac="0"> front</s><s t="1000" ac="0"> of</s><s t="1199" ac="0"> this</s><s t="1400" ac="0"> house</s></p>
+<p t="530509" d="2051" w="1" a="1">
+</p>
+<p t="530519" d="3401" w="1"><s ac="0">with</s><s t="161" ac="0"> the</s><s t="361" ac="0"> red</s><s t="681" ac="0"> door</s><s t="1201" ac="0"> some</s><s t="1320" ac="0"> of</s><s t="1440" ac="0"> the</s><s t="1561" ac="0"> photos</s><s t="1880" ac="0"> I</s></p>
+<p t="532550" d="1370" w="1" a="1">
+</p>
+<p t="532560" d="5920" w="1"><s ac="0">got</s><s t="200" ac="0"> here</s><s t="399" ac="0"> felt</s><s t="640" ac="0"> like</s><s t="800" ac="0"> they</s><s t="920" ac="0"> could</s><s t="1080" ac="0"> be</s><s t="1200" ac="0"> a</s></p>
+<p t="533910" d="4570" w="1" a="1">
+</p>
+<p t="533920" d="4560" w="1"><s ac="0">penguin</s><s t="560" ac="0"> family</s><s t="1080" ac="0"> holiday</s><s t="1560" ac="0"> card</s></p>
+<p t="545030" w="1" a="1">
+</p>
+<p t="545040" d="4239" w="1"><s ac="0">this</s><s t="200" ac="0"> afternoon</s><s t="640" ac="0"> we&#39;re</s><s t="799" ac="0"> sailing</s><s t="1239" ac="0"> through</s><s t="1479" ac="0"> the</s></p>
+<p t="546670" d="2609" w="1" a="1">
+</p>
+<p t="546680" d="4800" w="1"><s ac="0">laam</s><s t="279" ac="0"> mer</s><s t="520" ac="0"> Channel</s><s t="1080" ac="0"> which</s><s t="1200" ac="0"> is</s><s t="1360" ac="0"> known</s><s t="1719" ac="0"> to</s><s t="1920" ac="0"> be</s></p>
+<p t="549269" d="2211" w="1" a="1">
+</p>
+<p t="549279" d="5641" w="1"><s ac="0">absolutely</s><s t="721" ac="0"> beautiful</s><s t="1361" ac="0"> because</s><s t="1560" ac="0"> it&#39;s</s><s t="1680" ac="0"> a</s><s t="1881" ac="0"> very</s></p>
+<p t="551470" d="3450" w="1" a="1">
+</p>
+<p t="551480" d="5680" w="1"><s ac="0">narrow</s><s t="400" ac="0"> channel</s><s t="1280" ac="0"> with</s><s t="1680" ac="0"> steep</s><s t="2479" ac="0"> snowy</s><s t="3039" ac="0"> Cliffs</s></p>
+<p t="554910" d="2250" w="1" a="1">
+</p>
+<p t="554920" d="5159" w="1"><s ac="0">on</s><s t="159" ac="0"> either</s><s t="520" ac="0"> side</s><s t="1039" ac="0"> the</s><s t="1159" ac="0"> laam</s><s t="1400" ac="0"> mer</s><s t="1599" ac="0"> channel</s><s t="2039" ac="0"> is</s></p>
+<p t="557150" d="2929" w="1" a="1">
+</p>
+<p t="557160" d="5640" w="1"><s ac="0">nearly</s><s t="440" ac="0"> 7</s><s t="799" ac="0"> m</s><s t="1239" ac="0"> long</s><s t="1720" ac="0"> and</s><s t="2000" ac="0"> as</s><s t="2200" ac="0"> if</s><s t="2359" ac="0"> it</s><s t="2520" ac="0"> wasn&#39;t</s></p>
+<p t="560069" d="2731" w="1" a="1">
+</p>
+<p t="560079" d="5320" w="1"><s ac="0">special</s><s t="440" ac="0"> enough</s><s t="760" ac="0"> on</s><s t="961" ac="0"> its</s><s t="1121" ac="0"> own</s><s t="1561" ac="0"> a</s><s t="1801" ac="0"> lone</s><s t="2161" ac="0"> Orca</s></p>
+<p t="562790" d="2609" w="1" a="1">
+</p>
+<p t="562800" d="5830" w="1"><s ac="0">showed</s><s t="360" ac="0"> up</s><s t="719" ac="0"> and</s><s t="920" ac="0"> swam</s><s t="1440" ac="0"> alongside</s><s t="2000" ac="0"> the</s><s t="2159" ac="0"> ship</s><s t="2479" ac="0"> as</s></p>
+<p t="565389" d="3241" w="1" a="1">
+</p>
+<p t="565399" d="10720" w="1"><s ac="0">we</s><s t="161" ac="0"> sailed</s><s t="601" ac="0"> through</s></p>
+<p t="568620" d="7499" w="1" a="1">
+</p>
+<p t="568630" d="7489" w="1">[Music]</p>
+<p t="587350" w="1" a="1">
+</p>
+<p t="587360" d="4039" w="1"><s ac="0">something</s><s t="280" ac="0"> that&#39;s</s><s t="479" ac="0"> been</s><s t="840" ac="0"> so</s><s t="1240" ac="0"> handy</s><s t="1640" ac="0"> on</s><s t="1840" ac="0"> this</s></p>
+<p t="589389" d="2010" w="1" a="1">
+</p>
+<p t="589399" d="4721" w="1"><s ac="0">trip</s><s t="481" ac="0"> is</s><s t="721" ac="0"> the</s><s t="841" ac="0"> Suites</s><s t="1281" ac="0"> on</s><s t="1401" ac="0"> the</s><s t="1521" ac="0"> ship</s><s t="1801" ac="0"> have</s></p>
+<p t="591389" d="2731" w="1" a="1">
+</p>
+<p t="591399" d="5041" w="1"><s ac="0">drying</s><s t="641" ac="0"> closets</s><s t="1601" ac="0"> so</s><s t="1841" ac="0"> when</s><s t="2000" ac="0"> I</s><s t="2120" ac="0"> get</s><s t="2281" ac="0"> back</s><s t="2440" ac="0"> from</s></p>
+<p t="594110" d="2330" w="1" a="1">
+</p>
+<p t="594120" d="4240" w="1"><s ac="0">excursions</s><s t="719" ac="0"> I</s><s t="800" ac="0"> can</s><s t="1040" ac="0"> hang</s><s t="1480" ac="0"> all</s><s t="1640" ac="0"> of</s><s t="1800" ac="0"> my</s><s t="1959" ac="0"> wet</s></p>
+<p t="596430" d="1930" w="1" a="1">
+</p>
+<p t="596440" d="4519" w="1"><s ac="0">stuff</s><s t="560" ac="0"> up</s><s t="720" ac="0"> in</s><s t="920" ac="0"> here</s><s t="1160" ac="0"> like</s><s t="1280" ac="0"> my</s><s t="1440" ac="0"> gloves</s><s t="1760" ac="0"> and</s></p>
+<p t="598350" d="2609" w="1" a="1">
+</p>
+<p t="598360" d="4960" w="1"><s ac="0">beanie</s><s t="479" ac="0"> turn</s><s t="1080" ac="0"> the</s><s t="1200" ac="0"> radiator</s><s t="1719" ac="0"> on</s><s t="2120" ac="0"> here</s><s t="2240" ac="0"> in</s><s t="2400" ac="0"> the</s></p>
+<p t="600949" d="2371" w="1" a="1">
+</p>
+<p t="600959" d="4841" w="1"><s ac="0">back</s><s t="481" ac="0"> and</s><s t="801" ac="0"> everything</s><s t="1161" ac="0"> gets</s><s t="1401" ac="0"> so</s><s t="1681" ac="0"> toasty</s><s t="2201" ac="0"> and</s></p>
+<p t="603310" d="2490" w="1" a="1">
+</p>
+<p t="603320" d="4920" w="1"><s ac="0">dry</s><s t="560" ac="0"> the</s><s t="680" ac="0"> Seaborn</s><s t="1160" ac="0"> Venture</s><s t="1600" ac="0"> is</s><s t="1720" ac="0"> a</s><s t="1880" ac="0"> luxury</s></p>
+<p t="605790" d="2450" w="1" a="1">
+</p>
+<p t="605800" d="4440" w="1"><s ac="0">Expedition</s><s t="520" ac="0"> ship</s><s t="1000" ac="0"> designed</s><s t="1560" ac="0"> for</s><s t="1920" ac="0"> diverse</s></p>
+<p t="608230" d="2010" w="1" a="1">
+</p>
+<p t="608240" d="4480" w="1"><s ac="0">polar</s><s t="400" ac="0"> environments</s><s t="1120" ac="0"> and</s><s t="1240" ac="0"> you</s><s t="1360" ac="0"> can</s><s t="1480" ac="0"> see</s><s t="1760" ac="0"> this</s></p>
+<p t="610230" d="2490" w="1" a="1">
+</p>
+<p t="610240" d="5120" w="1"><s ac="0">reflected</s><s t="599" ac="0"> throughout</s><s t="1159" ac="0"> the</s><s t="1320" ac="0"> interior</s><s t="1920" ac="0"> design</s></p>
+<p t="612710" d="2650" w="1" a="1">
+</p>
+<p t="612720" d="4640" w="1"><s ac="0">is</s><s t="320" ac="0"> so</s><s t="960" ac="0"> beautiful</s><s t="1640" ac="0"> there</s><s t="1760" ac="0"> are</s><s t="1960" ac="0"> maps</s><s t="2359" ac="0"> and</s></p>
+<p t="615350" d="2010" w="1" a="1">
+</p>
+<p t="615360" d="4200" w="1"><s ac="0">Explorer</s><s t="360" ac="0"> themed</s><s t="680" ac="0"> touches</s><s t="1280" ac="0"> all</s><s t="1479" ac="0"> around</s><s t="1840" ac="0"> the</s></p>
+<p t="617350" d="2210" w="1" a="1">
+</p>
+<p t="617360" d="4599" w="1"><s ac="0">ship</s><s t="400" ac="0"> there&#39;s</s><s t="640" ac="0"> the</s><s t="800" ac="0"> bow</s><s t="1120" ac="0"> Lounge</s><s t="1599" ac="0"> that</s><s t="1840" ac="0"> has</s></p>
+<p t="619550" d="2409" w="1" a="1">
+</p>
+<p t="619560" d="4399" w="1"><s ac="0">screens</s><s t="680" ac="0"> with</s><s t="959" ac="0"> navigational</s><s t="1680" ac="0"> charts</s><s t="2200" ac="0"> and</s></p>
+<p t="621949" d="2010" w="1" a="1">
+</p>
+<p t="621959" d="3601" w="1"><s ac="0">weather</s><s t="320" ac="0"> forecasts</s><s t="1201" ac="0"> and</s><s t="1481" ac="0"> the</s><s t="1601" ac="0"> ship&#39;s</s></p>
+<p t="623949" d="1611" w="1" a="1">
+</p>
+<p t="623959" d="3440" w="1"><s ac="0">location</s><s t="681" ac="0"> this</s><s t="761" ac="0"> is</s><s t="921" ac="0"> one</s><s t="1041" ac="0"> of</s><s t="1120" ac="0"> my</s><s t="1281" ac="0"> favorite</s></p>
+<p t="625550" d="1849" w="1" a="1">
+</p>
+<p t="625560" d="3800" w="1"><s ac="0">spots</s><s t="279" ac="0"> on</s><s t="440" ac="0"> the</s><s t="560" ac="0"> ship</s><s t="959" ac="0"> it&#39;s</s><s t="1160" ac="0"> also</s><s t="1399" ac="0"> a</s><s t="1560" ac="0"> great</s></p>
+<p t="627389" d="1971" w="1" a="1">
+</p>
+<p t="627399" d="3841" w="1"><s ac="0">place</s><s t="201" ac="0"> to</s><s t="401" ac="0"> watch</s><s t="641" ac="0"> for</s><s t="1000" ac="0"> wildlife</s><s t="1601" ac="0"> there</s><s t="1721" ac="0"> are</s></p>
+<p t="629350" d="1890" w="1" a="1">
+</p>
+<p t="629360" d="4280" w="1"><s ac="0">mud</s><s t="240" ac="0"> rooms</s><s t="560" ac="0"> where</s><s t="760" ac="0"> every</s><s t="1080" ac="0"> passenger</s><s t="1479" ac="0"> gets</s><s t="1680" ac="0"> a</s></p>
+<p t="631230" d="2410" w="1" a="1">
+</p>
+<p t="631240" d="5240" w="1"><s ac="0">personal</s><s t="400" ac="0"> Locker</s><s t="800" ac="0"> to</s><s t="1000" ac="0"> keep</s><s t="1400" ac="0"> Excursion</s><s t="1920" ac="0"> boots</s></p>
+<p t="633630" d="2850" w="1" a="1">
+</p>
+<p t="633640" d="5120" w="1"><s ac="0">and</s><s t="240" ac="0"> other</s><s t="560" ac="0"> gear</s><s t="1080" ac="0"> there&#39;s</s><s t="1360" ac="0"> a</s><s t="1720" ac="0"> gorgeous</s><s t="2199" ac="0"> sauna</s></p>
+<p t="636470" d="2290" w="1" a="1">
+</p>
+<p t="636480" d="4039" w="1"><s ac="0">which</s><s t="120" ac="0"> was</s><s t="520" ac="0"> amazing</s><s t="1120" ac="0"> for</s><s t="1359" ac="0"> warming</s><s t="1720" ac="0"> up</s><s t="2039" ac="0"> after</s></p>
+<p t="638750" d="1769" w="1" a="1">
+</p>
+<p t="638760" d="4199" w="1"><s ac="0">returning</s><s t="440" ac="0"> from</s><s t="639" ac="0"> Shore</s><s t="1199" ac="0"> there</s><s t="1319" ac="0"> are</s><s t="1480" ac="0"> lots</s><s t="1639" ac="0"> of</s></p>
+<p t="640509" d="2450" w="1" a="1">
+</p>
+<p t="640519" d="3921" w="1"><s ac="0">heated</s><s t="320" ac="0"> whirl</s><s t="721" ac="0"> pools</s><s t="1320" ac="0"> and</s><s t="1521" ac="0"> a</s><s t="1641" ac="0"> swimming</s><s t="2041" ac="0"> pool</s></p>
+<p t="642949" d="1491" w="1" a="1">
+</p>
+<p t="642959" d="3560" w="1"><s ac="0">which</s><s t="120" ac="0"> are</s><s t="401" ac="0"> perfect</s><s t="721" ac="0"> for</s><s t="921" ac="0"> taking</s><s t="1201" ac="0"> in</s><s t="1361" ac="0"> the</s></p>
+<p t="644430" d="2089" w="1" a="1">
+</p>
+<p t="644440" d="4399" w="1"><s ac="0">scenery</s><s t="399" ac="0"> while</s><s t="519" ac="0"> sailing</s><s t="1360" ac="0"> and</s><s t="1560" ac="0"> of</s><s t="1720" ac="0"> course</s></p>
+<p t="646509" d="2330" w="1" a="1">
+</p>
+<p t="646519" d="3921" w="1"><s ac="0">there</s><s t="120" ac="0"> are</s><s t="440" ac="0"> so</s><s t="841" ac="0"> many</s><s t="1161" ac="0"> restaurants</s><s t="1721" ac="0"> and</s><s t="1921" ac="0"> dining</s></p>
+<p t="648829" d="1611" w="1" a="1">
+</p>
+<p t="648839" d="3481" w="1"><s ac="0">options</s><s t="321" ac="0"> to</s><s t="481" ac="0"> choose</s><s t="800" ac="0"> from</s><s t="1161" ac="0"> I</s><s t="1240" ac="0"> think</s><s t="1440" ac="0"> my</s></p>
+<p t="650430" d="1890" w="1" a="1">
+</p>
+<p t="650440" d="3720" w="1"><s ac="0">favorite</s><s t="399" ac="0"> was</s><s t="560" ac="0"> sushi</s><s t="959" ac="0"> in</s><s t="1079" ac="0"> the</s><s t="1240" ac="0"> club</s><s t="1680" ac="0"> but</s><s t="1800" ac="0"> you</s></p>
+<p t="652310" d="1850" w="1" a="1">
+</p>
+<p t="652320" d="4360" w="1"><s ac="0">will</s><s t="199" ac="0"> never</s><s t="440" ac="0"> go</s><s t="600" ac="0"> hungry</s><s t="1040" ac="0"> on</s><s t="1199" ac="0"> this</s><s t="1360" ac="0"> ship</s><s t="1680" ac="0"> and</s></p>
+<p t="654150" d="2530" w="1" a="1">
+</p>
+<p t="654160" d="6000" w="1"><s ac="0">the</s><s t="119" ac="0"> Suites</s><s t="560" ac="0"> are</s><s t="1040" ac="0"> super</s><s t="1520" ac="0"> spacious</s><s t="2200" ac="0"> with</s></p>
+<p t="656670" d="3490" w="1" a="1">
+</p>
+<p t="656680" d="6279" w="1"><s ac="0">balconies</s><s t="800" ac="0"> walk-in</s><s t="1279" ac="0"> closets</s><s t="1880" ac="0"> and</s><s t="2040" ac="0"> fullsize</s></p>
+<p t="660150" d="2809" w="1" a="1">
+</p>
+<p t="660160" d="5440" w="1"><s ac="0">bathrooms</s><s t="1000" ac="0"> today</s><s t="1359" ac="0"> in</s><s t="1600" ac="0"> Antarctica</s><s t="2560" ac="0"> we</s><s t="2679" ac="0"> are</s></p>
+<p t="662949" d="2651" w="1" a="1">
+</p>
+<p t="662959" d="4641" w="1"><s ac="0">sailing</s><s t="521" ac="0"> into</s><s t="841" ac="0"> an</s><s t="1161" ac="0"> active</s><s t="1721" ac="0"> volcano</s><s t="2481" ac="0"> we&#39;ve</s></p>
+<p t="665590" d="2010" w="1" a="1">
+</p>
+<p t="665600" d="4560" w="1"><s ac="0">made</s><s t="200" ac="0"> it</s><s t="320" ac="0"> to</s><s t="560" ac="0"> Deception</s><s t="1120" ac="0"> Island</s><s t="1560" ac="0"> which</s><s t="1720" ac="0"> is</s><s t="1880" ac="0"> the</s></p>
+<p t="667590" d="2570" w="1" a="1">
+</p>
+<p t="667600" d="5320" w="1"><s ac="0">Caldera</s><s t="679" ac="0"> of</s><s t="799" ac="0"> the</s><s t="960" ac="0"> volcano</s><s t="1880" ac="0"> I</s><s t="1960" ac="0"> believe</s><s t="2200" ac="0"> it</s><s t="2320" ac="0"> last</s></p>
+<p t="670150" d="2770" w="1" a="1">
+</p>
+<p t="670160" d="5200" w="1"><s ac="0">erupted</s><s t="440" ac="0"> in</s><s t="600" ac="0"> 1970</s><s t="1520" ac="0"> and</s><s t="1640" ac="0"> they</s><s t="1760" ac="0"> do</s><s t="2040" ac="0"> monitor</s><s t="2520" ac="0"> it</s></p>
+<p t="672910" d="2450" w="1" a="1">
+</p>
+<p t="672920" d="4880" w="1"><s ac="0">to</s><s t="159" ac="0"> see</s><s t="599" ac="0"> how</s><s t="1000" ac="0"> active</s><s t="1400" ac="0"> it</s><s t="1599" ac="0"> is</s><s t="1840" ac="0"> and</s><s t="2000" ac="0"> apparently</s></p>
+<p t="675350" d="2450" w="1" a="1">
+</p>
+<p t="675360" d="3880" w="1"><s ac="0">it&#39;s</s><s t="200" ac="0"> low</s><s t="520" ac="0"> risk</s><s t="960" ac="0"> right</s><s t="1080" ac="0"> now</s><s t="1680" ac="0"> however</s><s t="1960" ac="0"> the</s><s t="2080" ac="0"> ship</s></p>
+<p t="677790" d="1450" w="1" a="1">
+</p>
+<p t="677800" d="3839" w="1"><s ac="0">has</s><s t="240" ac="0"> informed</s><s t="680" ac="0"> us</s><s t="839" ac="0"> that</s><s t="1000" ac="0"> there</s><s t="1120" ac="0"> is</s><s t="1279" ac="0"> an</s></p>
+<p t="679230" d="2409" w="1" a="1">
+</p>
+<p t="679240" d="5380" w="1"><s ac="0">emergency</s><s t="520" ac="0"> plan</s><s t="1000" ac="0"> in</s><s t="1240" ac="0"> place</s><s t="1680" ac="0"> if</s><s t="1839" ac="0"> the</s><s t="1960" ac="0"> volcano</s></p>
+<p t="681629" d="2991" w="1" a="1">
+</p>
+<p t="681639" d="5361" w="1"><s ac="0">erupts</s><s t="801" ac="0"> today</s><s t="1801" ac="0"> we</s></p>
+<p t="684610" d="2390" w="1" a="1">
+</p>
+<p t="684620" d="6620" w="1">[Music]</p>
+<p t="686990" d="4250" w="1" a="1">
+</p>
+<p t="687000" d="4240" w="1"><s ac="0">got</s><s t="1000" ac="0"> one</s><s t="1480" ac="0"> day</s></p>
+<p t="691910" w="1" a="1">
+</p>
+<p t="691920" d="2359" w="1"><s ac="0">we</s></p>
+<p t="695590" w="1" a="1">
+</p>
+<p t="695600" d="4320" w="1"><s ac="0">got</s><s t="1000" ac="0"> one</s><s t="1479" ac="0"> day</s></p>
+<p t="698520" d="1400" w="1" a="1">
+</p>
+<p t="698530" d="3510" w="1">[Music]</p>
+<p t="699910" d="2130" w="1" a="1">
+</p>
+<p t="699920" d="6359" w="1"><s ac="0">soon</s><s t="1000" ac="0"> one</s></p>
+<p t="702030" d="4249" w="1" a="1">
+</p>
+<p t="702040" d="6400" w="1"><s ac="0">day</s><s t="1000" ac="0"> one</s><s t="1479" ac="0"> day</s><s t="2120" ac="0"> soon</s><s t="3120" ac="0"> one</s></p>
+<p t="706269" d="2171" w="1" a="1">
+</p>
+<p t="706279" d="4321" w="1"><s ac="0">day</s></p>
+<p t="708430" d="2170" w="1" a="1">
+</p>
+<p t="708440" d="5160" w="1"><s ac="0">one</s><s t="1000" ac="0"> one</s></p>
+<p t="710590" d="3010" w="1" a="1">
+</p>
+<p t="710600" d="3000" w="1"><s ac="0">day</s></p>
+<p t="716190" w="1" a="1">
+</p>
+<p t="716200" d="5079" w="1"><s ac="0">one</s><s t="1000" ac="0"> we&#39;re</s><s t="1199" ac="0"> now</s><s t="1400" ac="0"> headed</s><s t="1680" ac="0"> back</s><s t="1840" ac="0"> to</s><s t="2000" ac="0"> usua</s><s t="2800" ac="0"> and</s></p>
+<p t="719430" d="1849" w="1" a="1">
+</p>
+<p t="719440" d="4079" w="1"><s ac="0">I&#39;m</s><s t="360" ac="0"> so</s><s t="800" ac="0"> happy</s><s t="1040" ac="0"> to</s><s t="1199" ac="0"> have</s><s t="1360" ac="0"> had</s><s t="1519" ac="0"> such</s><s t="1680" ac="0"> a</s></p>
+<p t="721269" d="2250" w="1" a="1">
+</p>
+<p t="721279" d="4201" w="1"><s ac="0">wonderful</s><s t="560" ac="0"> experience</s><s t="1041" ac="0"> on</s><s t="1240" ac="0"> this</s><s t="1401" ac="0"> trip</s><s t="1761" ac="0"> and</s><s t="1921" ac="0"> so</s></p>
+<p t="723509" d="1971" w="1" a="1">
+</p>
+<p t="723519" d="3681" w="1"><s ac="0">sad</s><s t="361" ac="0"> it&#39;s</s><s t="560" ac="0"> coming</s><s t="801" ac="0"> to</s><s t="961" ac="0"> an</s><s t="1081" ac="0"> end</s><s t="1560" ac="0"> thanks</s><s t="1801" ac="0"> for</s></p>
+<p t="725470" d="1730" w="1" a="1">
+</p>
+<p t="725480" d="4280" w="1"><s ac="0">coming</s><s t="280" ac="0"> along</s><s t="520" ac="0"> with</s><s t="680" ac="0"> me</s><s t="799" ac="0"> on</s><s t="960" ac="0"> this</s><s t="1080" ac="0"> one</s><s t="1479" ac="0"> I&#39;ve</s></p>
+<p t="727190" d="2570" w="1" a="1">
+</p>
+<p t="727200" d="5639" w="1"><s ac="0">had</s><s t="199" ac="0"> so</s><s t="360" ac="0"> many</s><s t="600" ac="0"> moments</s><s t="1000" ac="0"> on</s><s t="1199" ac="0"> this</s><s t="1400" ac="0"> voyage</s><s t="2040" ac="0"> that</s></p>
+<p t="729750" d="3089" w="1" a="1">
+</p>
+<p t="729760" d="5800" w="1"><s ac="0">surpassed</s><s t="920" ac="0"> my</s><s t="1120" ac="0"> dreams</s><s t="1840" ac="0"> in</s><s t="1920" ac="0"> a</s><s t="2079" ac="0"> way</s><s t="2360" ac="0"> Antarctica</s></p>
+<p t="732829" d="2731" w="1" a="1">
+</p>
+<p t="732839" d="4800" w="1"><s ac="0">always</s><s t="281" ac="0"> felt</s><s t="961" ac="0"> Untouchable</s><s t="1800" ac="0"> I</s><s t="1881" ac="0"> didn&#39;t</s><s t="2081" ac="0"> grow</s><s t="2481" ac="0"> up</s></p>
+<p t="735550" d="2089" w="1" a="1">
+</p>
+<p t="735560" d="3320" w="1"><s ac="0">ever</s><s t="320" ac="0"> thinking</s><s t="760" ac="0"> I</s><s t="839" ac="0"> would</s><s t="1079" ac="0"> come</s><s t="1360" ac="0"> here</s><s t="1800" ac="0"> and</s><s t="1959" ac="0"> now</s></p>
+<p t="737629" d="1251" w="1" a="1">
+</p>
+<p t="737639" d="6640" w="1"><s ac="0">that</s><s t="161" ac="0"> I&#39;ve</s><s t="281" ac="0"> made</s><s t="440" ac="0"> it</s><s t="521" ac="0"> to</s><s t="681" ac="0"> my</s><s t="801" ac="0"> number</s><s t="1041" ac="0"> one</s></p>
+<p t="738870" d="5409" w="1" a="1">
+</p>
+<p t="738880" d="5399" w="1"><s ac="0">bucket</s><s t="360" ac="0"> list</s><s t="1040" ac="0"> destination</s><s t="2040" ac="0"> what&#39;s</s><s t="2399" ac="0"> next</s></p>
+<p t="745540" w="1" a="1">
+</p>
+<p t="745550" d="3120" w="1">[Applause]</p>
+<p t="750700" w="1" a="1">
+</p>
+<p t="750710" d="3209" w="1">[Music]</p>
+<p t="755269" w="1" a="1">
+</p>
+<p t="755279" d="14081" w="1"><s ac="0">the</s><s t="321" ac="0"> window</s></p>
+<p t="756990" d="12370" w="1" a="1">
+</p>
+<p t="757000" d="12360" w="1">[Music]</p>
+</body>
+</timedtext>
