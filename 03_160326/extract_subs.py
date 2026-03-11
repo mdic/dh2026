@@ -1,4 +1,4 @@
-
+# python extract_data.py -i ./cartella_dati -s -o ./output
 from __future__ import annotations
 import argparse
 import json
