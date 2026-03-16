@@ -150,6 +150,7 @@ def main():
                     text_attrs["date"] = (
                         f"{str(dt.year)}{str(dt.month).zfill(2)}{str(dt.day).zfill(2)}"
                     )
+                    text_attrs["date_ts"] = str(ts)
                 except:
                     pass
 
