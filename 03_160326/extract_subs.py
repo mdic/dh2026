@@ -1,26 +1,32 @@
 # python extract_data.py -i ./cartella_dati -s -o ./output
 from __future__ import annotations
+
 import argparse
 import json
 import xml.etree.ElementTree as ET
+from datetime import datetime
 from pathlib import Path
 from typing import Optional
+
 import yaml
-from datetime import datetime
+
 
 def load_info_json(path: Path) -> dict:
     """Load and parse a JSON file."""
     with path.open("r", encoding="utf-8") as f:
         return json.load(f)
 
+
 def load_config(path: Path) -> dict:
     """Load the YAML configuration for metadata mapping."""
     with path.open("r", encoding="utf-8") as f:
         return yaml.safe_load(f)
 
+
 def as_attr(value: Optional[object]) -> str:
     """Convert value to string, handling None as empty."""
     return "" if value is None else str(value)
+
 
 def get_clean_text(element: ET.Element) -> str:
     """
@@ -30,6 +36,7 @@ def get_clean_text(element: ET.Element) -> str:
     full_text = "".join(element.itertext())
     # Clean up whitespaces and newlines
     return " ".join(full_text.split())
+
 
 def find_best_subtitle(json_path: Path, priority_suffix: str) -> Optional[Path]:
     """
@@ -57,6 +64,7 @@ def find_best_subtitle(json_path: Path, priority_suffix: str) -> Optional[Path]:
     # Fallback to the first found srv3
     return potential_subs[0]
 
+
 def indent(elem: ET.Element, level: int = 0) -> None:
     """Pretty-print indentation for XML."""
     i = "\n" + level * "  "
@@ -71,18 +79,37 @@ def indent(elem: ET.Element, level: int = 0) -> None:
         if level and (not elem.tail or not elem.tail.strip()):
             elem.tail = i
 
+
 def main():
-    parser = argparse.ArgumentParser(description="Process video JSON metadata and SRV3 subtitles into XML.")
-    parser.add_argument("-i", "--input", nargs="+", type=Path, required=True,
-                        help="Input directories")
-    parser.add_argument("-o", "--output", type=Path, default=Path("output_xml"),
-                        help="Output directory for generated XML files")
-    parser.add_argument("-c", "--config", type=Path, default=Path("config.yaml"),
-                        help="YAML config file")
-    parser.add_argument("-s", "--subtitles", action="store_true",
-                        help="Enable subtitle processing")
-    parser.add_argument("--priority", type=str, default=".en-orig.srv3",
-                        help="Preferred subtitle suffix")
+    parser = argparse.ArgumentParser(
+        description="Process video JSON metadata and SRV3 subtitles into XML."
+    )
+    parser.add_argument(
+        "-i", "--input", nargs="+", type=Path, required=True, help="Input directories"
+    )
+    parser.add_argument(
+        "-o",
+        "--output",
+        type=Path,
+        default=Path("output_xml"),
+        help="Output directory for generated XML files",
+    )
+    parser.add_argument(
+        "-c",
+        "--config",
+        type=Path,
+        default=Path("config.yaml"),
+        help="YAML config file",
+    )
+    parser.add_argument(
+        "-s", "--subtitles", action="store_true", help="Enable subtitle processing"
+    )
+    parser.add_argument(
+        "--priority",
+        type=str,
+        default=".en-orig.srv3",
+        help="Preferred subtitle suffix",
+    )
 
     args = parser.parse_args()
 
@@ -118,15 +145,20 @@ def main():
                 try:
                     dt = datetime.fromtimestamp(ts)
                     text_attrs["year"] = str(dt.year)
-                    text_attrs["month"] = str(dt.month).zfill(2)
-                    text_attrs["day"] = str(dt.day).zfill(2)
+                    text_attrs["month"] = str(dt.month)
+                    text_attrs["day"] = str(dt.day)
+                    text_attrs["date"] = (
+                        f"{str(dt.year)}{str(dt.month).zfill(2)}{str(dt.day).zfill(2)}"
+                    )
                 except:
                     pass
 
         # 2. Subtitle Logic
         utterances = []
         is_ac = "false"
-        sub_path = find_best_subtitle(json_path, args.priority) if args.subtitles else None
+        sub_path = (
+            find_best_subtitle(json_path, args.priority) if args.subtitles else None
+        )
 
         if sub_path:
             try:
@@ -136,14 +168,14 @@ def main():
 
                 # Check for 'ac' attribute anywhere in the file to determine if it's Auto-Generated
                 for el in sub_root.iter():
-                    if 'ac' in el.attrib:
+                    if "ac" in el.attrib:
                         is_ac = "true"
                         break
 
                 # Extract <p> tags regardless of namespace
                 # {any_namespace}p
                 for p in sub_root.iter():
-                    if p.tag.endswith('p'):
+                    if p.tag.endswith("p"):
                         t_attr = p.attrib.get("t", "")
                         clean_text = get_clean_text(p)
                         if clean_text:
@@ -165,6 +197,7 @@ def main():
         tree = ET.ElementTree(root_el)
         tree.write(output_file, encoding="utf-8", xml_declaration=True)
         print(f"Generated: {output_file.name}")
+
 
 if __name__ == "__main__":
     main()
